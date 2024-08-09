@@ -13,12 +13,12 @@ This is simple flask application which returns the actual data as well as proces
 Python3 should be installed on the system.
 
 ### 1. Clone the repository
-git clone https://github.com/SuchitraKadolkar/FlaskApp.git
-cd flask-app-task
+1. git clone https://github.com/SuchitraKadolkar/FlaskApp.git
+2. cd flask-app-task
 
 ### 2. Run the commands
-pip install -r requirements.txt
-python3 main.py
+1. pip install -r requirements.txt
+2. python3 main.py
 
 ### 3. Test functionality
 Use Postman tool or open the terminal and run the below curl commands
